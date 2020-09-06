@@ -1,23 +1,20 @@
-### [Hola I'm Kolya Madridano][facebook] 👋
-
-
+### Hola I'm Kolya Madridano 👋
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
 - ❤️ 2020 Goals: Learn to contribute to Open Source projects
 - ❤️ Fun fact: I love design planning and making films 
-### Connect with me:
 
-[<img align="left" alt="Facebook" width="80px" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-Logo-500x500.png" />][facebook]
-[<img align="left" alt="Twitter" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Connect with me:
+[<h1>Facebook</h1>][facebook]
+[<h1>Twitter</h1>][twitter]
 
 
 ### My favorite movie so far ⚔️
 <img src="https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Mulan 2020" width="350" />
 
 
-
-
+### Teachnology I'm currently using:
 
 <img align="left" alt="REDUX" width="100px" src="https://redux.js.org/img/redux.svg" />
 <img align="left" alt="TYPESCRIPT" width="100px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />
