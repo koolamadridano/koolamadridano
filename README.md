@@ -14,10 +14,7 @@
 
 [<img align="left" alt="Facebook" width="150px" src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-Logo-500x500.png" />][facebook]
 [<img align="left" alt="Twitter" width="150px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-<br />
-<br />
-
+<hr/>
 ### Languages and Tools I'm using
 
 [<img align="left" alt="REDUX" width="100px" src="https://redux.js.org/img/redux.svg" />][redux]
@@ -33,6 +30,7 @@
 <br />
 <br />
 <br />
+<hr/>
 
 ---
 
