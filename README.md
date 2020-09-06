@@ -5,9 +5,8 @@
 - ❤️ 2020 Goals: Learn to contribute to Open Source projects
 - ❤️ Fun fact: I love design planning and making films 
 
-### Connect with me:
-[<h1>Facebook</h1>][facebook]
-[<h1>Twitter</h1>][twitter]
+### Connect with me: 
+[<h1>Facebook</h1>][facebook] [<h1>Twitter</h1>][twitter]
 
 
 ### My favorite movie so far ⚔️
