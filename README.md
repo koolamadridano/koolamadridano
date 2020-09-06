@@ -5,12 +5,11 @@
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
-- 👀 Looking forward in Stripe API
 - ❤️ 2020 Goals: Learn to contribute to Open Source projects
 - ❤️ Fun fact: I love design planning and making films 
 
 ### My favorite movie so far ⚔️
-[<img src="https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Mulan 2020" width="350" />]
+<img src="https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Mulan 2020" width="350" />
 
 ### Connect with me:
 
