@@ -1,5 +1,5 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
-
+ [<h1>Portfolio</h1>][portfolio]
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
 - ❤️ 2020 Goals: Learn to contribute to Open Source projects
@@ -33,3 +33,4 @@
 
 [facebook]: https://web.facebook.com/imyourkola
 [twitter]: https://twitter.com/imyournik_
+[portfolio]: https://kolyamadridano.netlify.app/ 
