@@ -1,5 +1,5 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
-[<h6>View my portfolio</h1>][portfolio]
+[<h1>More details on my portfolio</h1>][portfolio]
 
 
 
