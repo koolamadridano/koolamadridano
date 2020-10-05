@@ -1,4 +1,7 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
+[<h6>View my portfolio</h1>][portfolio]
+
+
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
@@ -20,7 +23,6 @@
 
 
 
-[<h6>View my portfolio</h1>][portfolio]
 
 [typescript]: https://www.typescriptlang.org
 [react]: https://reactjs.org
