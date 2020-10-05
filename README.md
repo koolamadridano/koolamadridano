@@ -5,10 +5,6 @@
 - ❤️ 2020 Goals: Learn to contribute to Open Source projects
 - ❤️ Fun fact: I love design planning and making films 
 
-### My favorite movie so far ⚔️
-<img src="https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_SY1000_CR0,0,675,1000_AL_.jpg" alt="Mulan 2020" width="350" />
-
-
 ### Teachnology I'm currently using:
 
 <img align="left" alt="REDUX" width="50px" src="https://redux.js.org/img/redux.svg" />
