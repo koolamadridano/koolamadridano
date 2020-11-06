@@ -1,12 +1,9 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
-### [Hola I'm Kolya Madridano][facebook]👋
+### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
 
 <b>Message:</b>
- <p>
-  Some repositories are private due to a personal reasons, Please message me at my social links for permissions.
- </p>
-[INSTAGRAM](https://www.instagram.com/imyour_kola) 
-[TWITTER](https://twitter.com/holakoola)
+
+
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
@@ -36,6 +33,8 @@
 [javascript]: https://www.javascript.com/
 
 
+
+[instagram]: https://www.instagram.com/imyour_kola
 [facebook]: https://web.facebook.com/imyourkola
-[twitter]: https://twitter.com/imyournik_
+[twitter]: https://twitter.com/holakoola
 [portfolio]: https://kolyamadridano.netlify.app/ 
