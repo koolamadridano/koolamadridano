@@ -6,10 +6,10 @@
 > Some of my repositories are being private for some reasons. <br> Please message me directly in my social media accounts if you need something.
 
 
-- ✅ I’m currently working in CRA Typescript Redux, GraphQL
-- 👀 Looking forward in Stripe API
-- ❤️ 2020 Goals: Learn to contribute to Open Source projects
-- ❤️ Fun fact: I love design planning and making films 
+✅ I’m currently working in CRA Typescript Redux, GraphQL
+👀 Looking forward in Stripe API
+❤️ 2020 Goals: Learn to contribute to Open Source projects
+❤️ Fun fact: I love design planning and making films 
 
 
 ### Teachnology I'm currently using:
