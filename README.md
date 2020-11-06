@@ -2,9 +2,6 @@
 ### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
 > Some of my repositories are being private for some reasons. <br> Please message me directly in my social media accounts if you need something.
 
-<b>Message:</b>
-
-
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
