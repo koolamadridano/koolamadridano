@@ -1,13 +1,3 @@
-
-### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
-> Some of my repositories are being private for some reasons. <br> Please message me directly in my social media accounts if you need something.
-
-
-- ✅ I’m currently working in CRA Typescript Redux, GraphQL
-- 👀 Looking forward in Stripe API
-- ❤️ 2020 Goals: Learn to contribute to Open Source projects
-- ❤️ Fun fact: I love design planning and making films 
-
 ### Teachnology I'm currently using:
 
 <img align="left" alt="REDUX" width="50px" src="https://redux.js.org/img/redux.svg" />
@@ -20,6 +10,19 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+
+### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
+> Some of my repositories are being private for some reasons. <br> Please message me directly in my social media accounts if you need something.
+
+
+- ✅ I’m currently working in CRA Typescript Redux, GraphQL
+- 👀 Looking forward in Stripe API
+- ❤️ 2020 Goals: Learn to contribute to Open Source projects
+- ❤️ Fun fact: I love design planning and making films 
+
+
 
 
 
