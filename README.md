@@ -4,7 +4,7 @@
  <p>
   Some repositories are private due to a personal reasons, Please message me at my social links for permissions.
  </p>
-[Facebook][facebook] | [Instagram][instagram] | [Twitter][twitter]
+[Facebook](https://web.facebook.com/imyourkola/) | [Instagram](https://www.instagram.com/imyour_kola/) | [Twitter](https://twitter.com/holakoola)
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
