@@ -1,6 +1,6 @@
 
 ### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
-> Blockquotes are very handy in email to emulate reply text.
+> Some of my repositories are being private for some reasons. Please message me directly in my social media accounts if you need something.
 
 <b>Message:</b>
 
