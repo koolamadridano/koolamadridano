@@ -1,7 +1,10 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
-[<h1>More details on my portfolio</h1>][portfolio]
 
-
+<b>Message:</b>
+ <p>
+  Some repositories are private due to a personal reasons, Please message me at my social links for permissions.
+ </p>
+[Facebook][facebook] | [Instagram][instagram] | [Twitter][twitter]
 
 - ✅ I’m currently working in CRA Typescript Redux, GraphQL
 - 👀 Looking forward in Stripe API
