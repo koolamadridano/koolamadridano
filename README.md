@@ -4,7 +4,7 @@
  <p>
   Some repositories are private due to a personal reasons, Please message me at my social links for permissions.
  </p>
-[FACEBOOK](https://web.facebook.com/imyourkola)
+[FACEBOOK][facebook]
 [INSTAGRAM](https://www.instagram.com/imyour_kola) 
 [TWITTER](https://twitter.com/holakoola)
 
