@@ -1,6 +1,6 @@
 
 ### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
-> Some of my repositories are being private for some reasons. Please message me directly in my social media accounts if you need something.
+> Some of my repositories are being private for some reasons. <br> Please message me directly in my social media accounts if you need something.
 
 <b>Message:</b>
 
