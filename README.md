@@ -1,5 +1,6 @@
-### [Hola I'm Kolya Madridano][facebook]👋
+
 ### [FACEBOOK][facebook] | [INSTAGRAM][instagram] | [TWITTER][twitter]
+> Blockquotes are very handy in email to emulate reply text.
 
 <b>Message:</b>
 
