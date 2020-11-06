@@ -1,10 +1,10 @@
 ### [Hola I'm Kolya Madridano][facebook]👋
+### [Hola I'm Kolya Madridano][facebook]👋
 
 <b>Message:</b>
  <p>
   Some repositories are private due to a personal reasons, Please message me at my social links for permissions.
  </p>
-### [Hola I'm Kolya Madridano][facebook]👋
 [INSTAGRAM](https://www.instagram.com/imyour_kola) 
 [TWITTER](https://twitter.com/holakoola)
 
